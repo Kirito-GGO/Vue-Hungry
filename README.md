@@ -219,7 +219,8 @@ border-none()
   };
 </script></code></pre>
 <p>在加食物 触发了addCart事件 设用set方法给数据加属性 并使cart.add事件冒泡出去 event.target作为事件参数 即节点冒泡出去</p>
-#### 接后台数据
+
+#### 接收后台数据
 <p>与后台的配合,通过插vue.resource + express 连接得到数据</p>
 <p>dev-server</p>
 
