@@ -121,7 +121,7 @@ border-none()
 ### VUE要点
 #### 小图标的编选
 ![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/7.png)
-<p>根据后台输出的数据,判定显示那个的图标.这vue典型的数据.驱动.解决是使用:class捆绑数据</p>
+<p>根据后台输出的数据 判定显示那个的图标 这vue典型的数据驱动 解决是使用:class捆绑数据</p>
 <p>html</p>
 
 ```html
