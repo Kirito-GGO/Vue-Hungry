@@ -1,7 +1,7 @@
 # Vue-Hungry
 完整高仿饿了么移动端APP核心模块 商家模块 实现单页面应用
-![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/1.png)
-![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/2.png)
+![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/1.PNG)
+![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/2.PNG)
 ![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/3.png)
 ![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/4.png)
 
@@ -60,7 +60,6 @@ border-none()
 <p>通过查询它的缩放比 在媒体宽为1.5倍时 round(1px 1.5 / 0.7) = 1px 在媒体宽为2倍时 round(1px 2 / 0.5) = 1px</p>
 
 #### 自适应宽
-// 图片链接语法：https://github.com/你的用户名/你的repository仓库名/raw/分支名master/刚你新建的图片文件夹名称/***.png ***.jpg
 ![Alt text](https://github.com/Kirito-GGO/Vue-Hungry/raw/master/Screenshots/5.png)
 <p>在商品路由中 导航宽度固定80px的 因为手机分辨率大小不一 所以食物详情自适应 解决就是flex布局 </p>
 <p>css</p>
